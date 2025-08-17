@@ -17,7 +17,7 @@ let package = Package(
         // Binary target dengan modul yang sama nama library
         .binaryTarget(
             name: "SharedMovieApp",
-            url: "https://github.com/tiofani03/movieapp-shared-spm/releases/download/0.0.2/Shared.xcframework.zip",
+            url: "https://github.com/tiofani03/movieapp-shared-spm/releases/download/0.0.2/Shared.xcframework.zip?raw=true",
             checksum: "8ee7aa153c932ad8355fe9e97bdf63456a583339fe6de1b31eafc1439366f1b3"
         )
     ]
