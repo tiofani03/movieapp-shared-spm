@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://github.com/tiofani03/movieapp/releases/download/0.0.2/Shared.xcframework.zip",
+            url: "https://github.com/tiofani03/movieapp-shared-spm/releases/download/0.0.2/Shared.xcframework.zip",
             checksum: "8ee7aa153c932ad8355fe9e97bdf63456a583339fe6de1b31eafc1439366f1b3"
         )
     ]
